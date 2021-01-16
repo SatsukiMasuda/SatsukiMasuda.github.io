@@ -1,4 +1,4 @@
-let virusNum = 1000;
+let virusNum = 500;
 const virusNumDisplay = document.querySelector('#virus-num');
 (()=>{
     virusNumDisplay.style.position = "absolute";
